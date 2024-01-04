@@ -7,7 +7,7 @@
   
   <img src="profile-img.png" align="right" width="25%"/>
 
-As a second-year Knowledge Engineering and Data Science student at ESI, I am passionate about data science and technologies to solve real-world challenges. I am actively seeking a final year internship to apply my skills and deepen my practical experience in this field.
+As a second-year Knowledge Engineering and Data Science student at ESI, I am passionate about data science and technologies to solve real-world challenges.
 
 - Python 🐍: Numpy, Pandas, Seaborn, Matplotlib, BeautifulSoup, Selenium, Tkinter.
 - PHP 🌐, Java, JavaScript 🖥️, HTML & CSS 📄🎨, MySQL, R 🔢, SPSS 📊.
