@@ -7,8 +7,8 @@
   
   <img src="profile-img.png" align="right" width="25%"/>
 
-As a second-year Knowledge Engineering and Data Science student at ESI, I am passionate about data science and technologies to solve real-world challenges.
+As a third-year Knowledge Engineering and Data Science student at ESI, I am passionate about data science and technologies to solve real-world challenges.
 
-- Python 🐍: Numpy, Pandas, Seaborn, Matplotlib, BeautifulSoup, Selenium, Tkinter.
+- Python 🐍: Machine Learning & LLMs ( Hugging Face & Ollama ) & Web Scraping 
 - PHP 🌐, Java, JavaScript 🖥️, HTML & CSS 📄🎨, MySQL, R 🔢, SPSS 📊.
 - 💬 mailto: youssef.bachiri@esi.ac.ma / youssefbachiri2805@gmail.com
