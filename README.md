@@ -10,5 +10,5 @@
 As a third-year Knowledge Engineering and Data Science student at ESI, I am passionate about data science and technologies to solve real-world challenges.
 
 - Python 🐍: Machine Learning & LLMs ( Hugging Face & Ollama ) & Web Scraping 
-- PHP 🌐, Java, JavaScript 🖥️, HTML & CSS 📄🎨, MySQL, R 🔢, SPSS 📊.
+- PHP 🌐 & Java & JavaScript 🖥️ & HTML & CSS 📄🎨 & Flutter & Kotlin, MySQL & SQLite & NoSQL & PLSQL | Cassandra & MonngoDB & Docker, R 🔢 & SPSS 📊
 - 💬 mailto: youssef.bachiri@esi.ac.ma / youssefbachiri2805@gmail.com
